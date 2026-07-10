@@ -26,12 +26,6 @@ This project demonstrates the **Factory Method Pattern**, a creational design pa
 - Demonstrates how to use the factory to create objects
 - Shows the benefits of the factory pattern
 
-## Key Benefits
-
-✅ **Loose Coupling** - Client code doesn't depend on concrete classes  
-✅ **Centralized Object Creation** - All object creation logic in one place  
-✅ **Easy to Extend** - New shapes can be added without modifying client code  
-✅ **Follows Single Responsibility Principle** - Each class has one reason to change  
 
 ## How to Run
 
